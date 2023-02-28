@@ -1,11 +1,4 @@
 Hi,
 I 
 am
-Bobi
-and 
-I 
-am 
-learning 
-things 
-about 
-Git.
+Toni and I succesfully made some commits.
