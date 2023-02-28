@@ -1,1 +1,1 @@
-Hi, I am Toni
+Hi, I am Toni and I am learning things about Git.
