@@ -5,7 +5,7 @@ public class Test {
 
         for (int i = 0; i < 50; i++) {
 
-            System.out.println("Hi");
+            System.out.println("Hi!");
         }
     }
 }
