@@ -9,6 +9,6 @@ public class Test {
         for (int i = 0; i < 50; i++) {
             sum += i;
         }
-        System.out.println(sum );
+        System.out.println("The sum is " + sum);
     }
 }
